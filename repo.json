@@ -1,15 +1,8 @@
 {
   "name": "Ngefilm Cloudstream Repo",
-  "type": "plugin",
-  "plugins": [
-    {
-      "id": "ngefilm",
-      "name": "Plugin Ngefilm",
-      "version": 1,
-      "download_url": "https://raw.githubusercontent.com/duro92/cloudstream-repo/main/builds/Ngefilm.cs3",
-      "description": "Cloudstream provider untuk Ngefilm.",
-      "status": 1,
-      "tvTypes": ["Movie", "TvSeries"]
-    }
+  "description": "Repo ekstensi Cloudstream oleh duro92",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/duro92/cloudstream-repo/main/builds/plugins.json"
   ]
 }
