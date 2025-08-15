@@ -1,8 +1,10 @@
 {
   "name": "Ngefilm Cloudstream Repo",
-  "description": "Repo ekstensi Cloudstream oleh duro92",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/duro92/cloudstream-repo/main/builds/plugins.json"
+  "plugins": [
+    {
+      "name": "Ngefilm",
+      "url": "https://raw.githubusercontent.com/duro92/cloudstream-repo/main/builds/Ngefilm.cs3",
+      "version": 1
+    }
   ]
 }
