@@ -3,7 +3,7 @@
     "name": "Ngefilm",
     "internalName": "NgefilmProvider",
     "version": 1,
-    "apiVersion": 1,
+    "apiVersion": 3,                    
     "language": "id",
     "tvTypes": ["Movie", "TvSeries"],
     "url": "https://raw.githubusercontent.com/duro92/cloudstream-repo/main/Ngefilm.cs3"
